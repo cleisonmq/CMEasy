@@ -1,2 +1,2 @@
 # CMEasy
-Programa de autimação para instalação de softwares e execução de comandos
+Programa de automação para instalação de softwares e execução de comandos
